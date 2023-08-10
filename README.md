@@ -21,5 +21,6 @@ Once you have created the folder and file structure, you can execute the **"crea
 1. Execute **"create.py"**
 
 You will be prompted to:
-2. Select a destination folder
-3. Name the folder that will be created and will contain your folders and files.
+
+1. Select a destination folder
+2. Name the folder that will be created and will contain your folders and files.
